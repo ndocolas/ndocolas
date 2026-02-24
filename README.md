@@ -1,1 +1,1 @@
-<p align="centre"><b>Visitors Count</b></p><p align="center"><img align="center" src="https://profile-counter.glitch.me/{ndocolas}/count.svg" /></p>
+![](https://komarev.com/ghpvc/?username=ndocolas&style=for-the-badge&label=Profile+views+since+24+February+2026)
